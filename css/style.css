@@ -1,0 +1,25 @@
+body{
+  font-family: 'segoe ui light';
+}
+h3{
+  color: #AAAAAA
+}
+.form-group{
+  padding: 50px;
+  background-color: #EEEEEE;
+  text-align: center;
+}
+h2{
+  color: #333;;
+}
+p{
+  font-weight: bold;
+color: #333;
+font-size: 28;
+}
+#showMarks{
+  background-image: linear-gradient(to bottom , #f1f1f1, #f4f4f4, #f7f7f7, #fafafa, #fdfdfd);
+}
+#showMarks h2{
+  color: #333;
+}
